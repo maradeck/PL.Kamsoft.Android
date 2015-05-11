@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PL.Kamsoft.Android.Libs</string>
+    <string name="test">Test działania zewnętrznej biblioteki</string>
+</resources>
